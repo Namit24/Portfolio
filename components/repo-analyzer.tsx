@@ -465,7 +465,7 @@ export function RepoAnalyzer() {
     <div className="grid gap-6">
       <Card className="overflow-hidden border-none shadow-lg bg-gradient-to-br from-background to-muted">
         <CardHeader>
-          <CardTitle>GitIngest-style Repository Analyzer</CardTitle>
+          <CardTitle>GitHub Repository Analyzer</CardTitle>
           <CardDescription>Enter a GitHub repository URL to explore its structure and code</CardDescription>
         </CardHeader>
         <CardContent>
